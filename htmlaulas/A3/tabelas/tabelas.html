@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+
+    <!-- 
+        <style>
+
+            table, td, th {
+                border: 1px solid black;
+            }
+
+        </style>
+    -->
+
+</head>
+<body>
+    <h1>Tabelas</h1>
+
+    <!--
+        table -> tabela
+        tr -> Table Row (linha da tabela)
+        td -> Table Data (Dados da tabela) * Table Cell (células da tabela)
+        th -> Table Header (Cabecalho da tabela)
+    -->
+
+    <!--
+        Nao precisamos usar o -> table border="" <- Pois a edicao de estilos fica no css
+    -->
+
+    <table border="1">
+        <tr>
+            <th>Produto</th>
+            <th>Quantidade</th>
+            <th>Preco</th>
+        </tr>
+
+        <tr>
+            <td>Notebook</td>
+            <td>5</td>
+            <td>4.000</td>
+        </tr>
+        
+        <tr>
+            <td>Tablet</td> 
+            <td>15</td>
+            <td>2.000</td>
+        </tr>
+
+        <br>
+    
+    <!--
+        colspan -> extensao da coluna
+        rowspan -> extensao da linha
+    -->
+
+        <tr>
+            <td rowspan="2">Desconto</td>
+            <td colspan="2">Cupom - 1 R$ 20,00</td>
+        </tr>
+
+         <tr>
+            <td colspan="2">Cupom - 2 R$ 20,00</td>
+        </tr>
+
+    </table>
+
+    
+</body>
+</html>

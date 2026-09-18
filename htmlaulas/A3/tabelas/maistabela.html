@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mais Tabelas</title>
+
+    <style>
+
+        caption {
+            background-color: antiquewhite;
+            color: rgb(4, 61, 184);
+        }
+
+        thead {
+            background-color: orange;
+            color: rgb(4, 61, 184);
+        }
+
+
+    </style>
+
+
+
+</head>
+<body>
+
+    <h1>Mais tabela</h1>
+
+    <!--    
+        caption -> Legenda / título da tabela
+        thead -> Table Header (cabecalho da tabela)
+        tbody -> Table Body (Corpo da tabela)
+        tfoot -> tale footer (rodapé da tabela)
+    -->
+
+    <table border="1">
+        <caption>Lista de Produtos</caption>
+        
+        <thead>
+            <tr>
+                <th>Produtos</th>
+                <th>Quantidade</th>
+                <th>Preco</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Notebook</td>
+                <td>1</td>
+                <td>R$ 4.000</td>
+            </tr>
+
+            <tr>
+                <td>Tablet</td>
+                <td>1</td>
+                <td>R$ 2.000</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <td>Total</td>
+                <td colspan="2">R$ 6.000</td>   
+            </tr>
+        </tfoot>
+
+    </table>
+    
+</body>
+</html>
