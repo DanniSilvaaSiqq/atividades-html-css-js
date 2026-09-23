@@ -11,6 +11,11 @@ if resultado.stdout:
     print(resultado.stdout)
 
     subprocess.run(["git", "add", "."])
+    print("Alterações adicionadas ao staging.")
+
+    subprocess.run(
+        ["git", "commit", "-m", "Atualiza atividades"]
+    )
     
 else:
     print("Nenhuma alteração encontrada.")
