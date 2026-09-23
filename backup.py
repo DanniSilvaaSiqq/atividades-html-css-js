@@ -6,4 +6,11 @@ resultado = subprocess.run(
     text=True
 )
 
-print(resultado.stdout)
+if resultado.stdout:
+    print("Existem alterações no projeto.")
+    print(resultado.stdout)
+
+    subprocess.run(["git", "add", "."])
+    
+else:
+    print("Nenhuma alteração encontrada.")
