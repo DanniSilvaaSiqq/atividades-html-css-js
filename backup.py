@@ -17,7 +17,9 @@ if resultado.stdout:
         ["git", "commit", "-m", "Atualiza atividades"]
     )
 
-    print("AutoGit iniciado.")
+    subprocess.run(["git", "push"])
+
+    print("AutoGit executado com sucesso.")
     
 else:
     print("Nenhuma alteração encontrada.")
