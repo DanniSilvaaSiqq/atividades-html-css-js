@@ -2,11 +2,11 @@
 
 Bem-vindo ao meu repositório de estudos! 🚀 
 
-Este espaço é dedicado a armazenar e organizar todas as minhas atividades, anotações e projetos práticos focados em **HTML, CSS e JavaScript**[cite: 16]. Ele funciona como o meu portfólio de evolução contínua na área de programação.
+Este espaço é dedicado a armazenar e organizar todas as minhas atividades, anotações e projetos práticos focados em **HTML, CSS e JavaScript**. Ele funciona como o meu portfólio de evolução contínua na área de programação.
 
 ## 📖 Sobre o Repositório
 
-Atualmente, sou estudante do curso **"Desenvolvimento Web Completo - 20 cursos + 20 projetos"**[cite: 17]. Estou a utilizar este repositório para documentar o meu progresso módulo a módulo, desde a estruturação básica de páginas até à criação de aplicações completas.
+Atualmente, sou estudante do curso **"Desenvolvimento Web Completo - 20 cursos + 20 projetos"**. Estou a utilizar este repositório para documentar o meu progresso módulo a módulo, desde a estruturação básica de páginas até à criação de aplicações completas.
 
 > 🚧 **Status:** Em desenvolvimento ativo. Estou a construir a minha base de conhecimento dia após dia!
 
