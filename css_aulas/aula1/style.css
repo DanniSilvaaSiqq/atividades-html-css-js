@@ -1,0 +1,13 @@
+body {
+    border: 1px solid red;
+}
+
+p {
+    border: 1px solid red;
+    background-color: antiquewhite;
+}
+
+h1 {
+    border: 1px solid red;
+    background-color: blanchedalmond;
+}
