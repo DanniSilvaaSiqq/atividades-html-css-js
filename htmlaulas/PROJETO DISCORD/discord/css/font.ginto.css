@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'GintoNord Black';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Black'),
+    url('../fonts/ginto/ABCGintoNord-Black-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Light'),
+    url('../fonts/ginto/ABCGintoNord-Light-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Normal'),
+    url('../fonts/ginto/ABCGintoNormal-Regular-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Medium Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Medium Normal'),
+    url('../fonts/ginto/ABCGintoNormal-Medium-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Bold Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Bold Normal'),
+    url('../fonts/ginto/ABCGintoNormal-Bold-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Regular'),
+    url('../fonts/ginto/ABCGintoNord-Regular-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Medium';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Medium'),
+    url('../fonts/ginto/ABCGintoNord-Medium-Trial.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'GintoNord Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('GintoNord Bold'),
+    url('../fonts/ginto/ABCGintoNord-Bold-Trial.woff2') format('woff2');
+}

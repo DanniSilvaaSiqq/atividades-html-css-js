@@ -1,0 +1,13 @@
+{
+  "name": "@codans/discord",
+  "version": "2.0.0",
+  "description": "Clone of the official website for the presentation of discord, created for educational purposes.",
+  "main": "js/stylesheet.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamiltondamasceno/web-com-javascript/tree/main/discord"
+  },
+  "author": "juniorbotelho",
+  "license": "ISC",
+  "keywords": ["discord", "course", "jamiltondamasceno", "udemy"]
+}
